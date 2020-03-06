@@ -299,7 +299,7 @@ namespace ArcEngine.Graphic
 		/// <param name="dest">Destination factor</param>
 		public static void BlendingFunction(BlendingFactorSource source, BlendingFactorDest dest)
 		{
-			TK.GL.BlendFunc((TK.BlendingFactorSrc)source, (TK.BlendingFactorDest)dest);
+			TK.GL.BlendFunc((TK.BlendingFactor)source, (TK.BlendingFactor)dest);
 		}
 
 

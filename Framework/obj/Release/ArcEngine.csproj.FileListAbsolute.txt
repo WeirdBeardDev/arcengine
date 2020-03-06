@@ -1,0 +1,48 @@
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\ArcEngine.dll.config
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\ArcEngine.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\ArcEngine.pdb
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\csogg.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\csvorbis.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\DigitalRune.Windows.TextEditor.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\Ionic.Zip.Reduced.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\OpenTK.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\OpenTK.GLControl.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\OpenTK.pdb
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\OpenTK.xml
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\OpenTK.GLControl.pdb
+C:\GitHub\arcengine\Framework\bin\Any CPU\Release\OpenTK.GLControl.xml
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.ScriptControl.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.Wizards.RenameWizardForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Forms.AssetEditorBase.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Forms.AutoUpdateForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Forms.StorageBrowserForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\DungeonEye.Forms.StringTableControl.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Forms.ExceptionForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Forms.TerminalForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Forms.DisplaySettingsWizard.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.AboutForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.AnimationForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.BinaryForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.AudioForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.ExportWizard.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.ImportGIFForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.InputSchemeForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.LayoutForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.LogForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.EditorMainForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.PreferencesForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.ResourceForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.ScriptForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.ScriptModelForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.StringTableForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.TileSetForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.BitmapFontForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.Forms.AboutForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Editor.WizardForm.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Forms.GameWindow.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.Properties.Resources.resources
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.csproj.GenerateResource.cache
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.csproj.CopyComplete
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.dll
+C:\GitHub\arcengine\Framework\obj\Release\ArcEngine.pdb
