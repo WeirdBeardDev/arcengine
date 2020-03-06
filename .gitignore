@@ -17,16 +17,13 @@
 mono_crash.*
 
 # Build results
-# [Dd]ebug/ # need to keep some project DLLs
 [Dd]ebugPublic/
-# [Rr]elease/ # need to keep some project DLLs
 [Rr]eleases/
 x64/
 x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-# [Bb]in/ # need to keep some project DLLs
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
